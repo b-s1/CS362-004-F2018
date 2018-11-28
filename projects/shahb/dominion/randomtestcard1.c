@@ -8,7 +8,7 @@
 #include "dominion.h"
 #include "dominion_helpers.h"
 #include <stdlib.h>
-//max tests
+//max tests for max coverage
 #define NUM_OF_TESTS 50000
 
 void testSmithyFunction()
@@ -53,7 +53,7 @@ void testSmithyFunction()
 		//save num cards before fx called
 		pretally = handcount;				
 		//call smithy fx
-		simthyFunction(G.whoseTurn, &G, cardspot);
+		smithyFunction(G.whoseTurn, &G, cardspot);
 		//count num cards after smithy called
 		posttally = G.handCount[G.whoseTurn];		
 
