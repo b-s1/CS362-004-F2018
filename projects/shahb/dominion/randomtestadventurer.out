@@ -1,0 +1,9 @@
+Result for running test:
+randomtestadventurer.c
+File 'dominion.c'
+Lines executed:12.77% of 548
+Branches executed:14.63% of 417
+Taken at least once:7.67% of 417
+Calls executed:8.89% of 90
+Creating 'dominion.c.gcov'
+
