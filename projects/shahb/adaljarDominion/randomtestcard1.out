@@ -1,0 +1,21 @@
+Result for running test:
+randomtestcard1.c
+
+
+Smithy random
+Testing 50000 runs of smithy
+Pass: 0
+Fail: 50000
+
+ 50000 trails smithy vs playcard
+pass: 0
+fail: 50000
+
+
+File 'dominion.c'
+Lines executed:23.35% of 561
+Branches executed:25.91% of 413
+Taken at least once:16.71% of 413
+Calls executed:15.79% of 95
+Creating 'dominion.c.gcov'
+

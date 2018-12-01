@@ -1,0 +1,125 @@
+Result for running tests:
+unittest1.c:
+
+Test shuffle() 
+
+shuffle deck 1 is test 1 
+See if deck1!=deck2
+success
+
+shuffle deck2
+cehck if desk 2!=deck1
+success
+
+thanks 
+File 'dominion.c'
+Lines executed:16.04% of 561
+Branches executed:15.98% of 413
+Taken at least once:13.32% of 413
+Calls executed:7.37% of 95
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+
+getCost()
+Test: ** PASSED ** Card curse == Cost 0
+Test: ** PASSED ** Card estate == Cost 2
+Test: ** PASSED ** Card duchy == Cost 5
+Test: ** PASSED ** Card province == Cost 8
+Test: ** PASSED ** Card copper == Cost 0
+Test: ** PASSED ** Card silver == Cost 3
+Test: ** PASSED ** Card gold == Cost 6
+Test: ** PASSED ** Card adventurer == Cost 6
+Test: ** PASSED ** Card council_room == Cost 5
+Test: ** PASSED ** Card feast == Cost 4
+Test: ** PASSED ** Card gardens == Cost 4
+Test: ** PASSED ** Card mine == Cost 5
+Test: ** PASSED ** Card remodel == Cost 4
+Test: ** PASSED ** Card smithy == Cost 4
+Test: ** PASSED ** Card village == Cost 3
+Test: ** PASSED ** Card baron == Cost 4
+Test: ** PASSED ** Card great_hall == Cost 3
+Test: ** PASSED ** Card minion == Cost 5
+Test: ** PASSED ** Card steward == Cost 3
+Test: ** PASSED ** Card tribute == Cost 5
+Test: ** PASSED ** Card ambassador == Cost 3
+Test: ** PASSED ** Card cutpurse == Cost 4
+Test: ** PASSED ** Card embargo == Cost 2
+Test: ** PASSED ** Card outpost == Cost 5
+Test: ** PASSED ** Card salvager == Cost 4
+Test: ** PASSED ** Card sea_hag == Cost 4
+Test: ** PASSED ** Card treasure_map == Cost 4
+perfect
+File 'dominion.c'
+Lines executed:21.03% of 561
+Branches executed:22.76% of 413
+Taken at least once:19.61% of 413
+Calls executed:7.37% of 95
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+
+supplyCount() 
+see if supplycount returns right init val
+
+ 1/1 card[0] == 10 
+
+ 1/1 card[1] == 8 
+
+ 1/1 card[2] == 8 
+
+ 1/1 card[3] == 8 
+
+ 1/1 card[4] == 46 
+
+ 1/1 card[5] == 40 
+
+ 1/1 card[6] == 30 
+
+ 1/1 card[7] == 10 
+
+ 1/1 card[8] == 10 
+
+ 1/1 card[9] == 10 
+
+ 1/1 card[10] == 8 
+
+ 1/1 card[11] == 10 
+
+ 1/1 card[12] == 10 
+
+ 1/1 card[13] == 10 
+
+ 1/1 card[14] == 10 
+
+ 1/1 card[15] == 10 
+
+ 1/1 card[16] == 8 
+
+ 1/1 card[17] == -1 
+
+ 1/1 card[18] == -1 
+
+ 1/1 card[19] == -1 
+
+ 1/1 card[20] == -1 
+
+ 1/1 card[21] == -1 
+
+ 1/1 card[22] == -1 
+
+ 1/1 card[23] == -1 
+
+ 1/1 card[24] == -1 
+
+ 1/1 card[25] == -1 
+
+ 1/1 card[26] == -1 
+
+successFile 'dominion.c'
+Lines executed:16.22% of 561
+Branches executed:15.98% of 413
+Taken at least once:13.08% of 413
+Calls executed:7.37% of 95
+Creating 'dominion.c.gcov'
+
